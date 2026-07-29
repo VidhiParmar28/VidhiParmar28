@@ -26,18 +26,18 @@ AI / Machine Learning fundamentals
 
 ### 📌 Featured Projects
 
-**[Recipe Finder](https://github.com/username/Recipe-Finder)** — Live search recipe app using TheMealDB API, built with vanilla JS, fetch(), and async/await.
+**[Recipe Finder](https://github.com/VidhiParmar28/Recipe-Finder)** — Live search recipe app using TheMealDB API, built with vanilla JS, fetch(), and async/await.
 
 🔗 **[Live Demo](https://vidhiparmar28.github.io/Recipe-Finder/)**
 
-**[Amazon Website Clone](https://github.com/username/Amazon-Website-Clone)** — Responsive replica of the Amazon homepage built with pure HTML & CSS.
+**[Amazon Website Clone](https://github.com/VidhiParmar28/Amazon-Website-Clone)** — Responsive replica of the Amazon homepage built with pure HTML & CSS.
 🔗 **[Live Demo](https://vidhiparmar28.github.io/Amazon-Website-Clone/)**
 
 
-**[Country Explorer](https://github.com/username/Country-Explorer)** — Real-time country search and info app using the Fetch API.
+**[Country Explorer](https://github.com/VidhiParmar28/Country-Explorer)** — Real-time country search and info app using the Fetch API.
 🔗 **[Live Demo]( https://vidhiparmar28.github.io/Country-Explorer/)**
 
-**[React Component Playground](https://github.com/username/react-component-playground)** — Practice repo for React fundamentals — props, JSX, and component composition.
+**[React Component Playground](https://github.com/VidhiParmar28/react-component-playground)** — Practice repo for React fundamentals — props, JSX, and component composition.
 
 ---
 
