@@ -27,10 +27,12 @@ AI / Machine Learning fundamentals
 ### 📌 Featured Projects
 
 **[Recipe Finder](https://github.com/username/Recipe-Finder)** — Live search recipe app using TheMealDB API, built with vanilla JS, fetch(), and async/await.
+
 🔗 **[Live Demo](https://vidhiparmar28.github.io/Recipe-Finder/)**
 
 **[Amazon Website Clone](https://github.com/username/Amazon-Website-Clone)** — Responsive replica of the Amazon homepage built with pure HTML & CSS.
-🔗 [Live Demo](https://your-amazon-clone-link.netlify.app)
+🔗 **[Live Demo](https://vidhiparmar28.github.io/Amazon-Website-Clone/)**
+https://vidhiparmar28.github.io/Amazon-Website-Clone/
 
 **[Country Explorer](https://github.com/username/Country-Explorer)** — Real-time country search and info app using the Fetch API.
 
