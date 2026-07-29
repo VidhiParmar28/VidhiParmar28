@@ -1,4 +1,4 @@
-# Hi, I'm Vidhi 👋
+# Hi, I'm Vidhi 
 
 Frontend/Full-Stack Developer | BE in Information Technology | Open to internships & junior roles
 
