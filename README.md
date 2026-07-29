@@ -46,10 +46,3 @@ AI / Machine Learning fundamentals
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VidhiParmar28&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VidhiParmar28" height="150" />
-</p>
