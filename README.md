@@ -32,7 +32,7 @@ AI / Machine Learning fundamentals
 
 **[Amazon Website Clone](https://github.com/username/Amazon-Website-Clone)** — Responsive replica of the Amazon homepage built with pure HTML & CSS.
 🔗 **[Live Demo](https://vidhiparmar28.github.io/Amazon-Website-Clone/)**
-https://vidhiparmar28.github.io/Amazon-Website-Clone/
+
 
 **[Country Explorer](https://github.com/username/Country-Explorer)** — Real-time country search and info app using the Fetch API.
 
