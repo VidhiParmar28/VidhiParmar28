@@ -27,7 +27,7 @@ AI / Machine Learning fundamentals
 ### 📌 Featured Projects
 
 **[Recipe Finder](https://github.com/username/Recipe-Finder)** — Live search recipe app using TheMealDB API, built with vanilla JS, fetch(), and async/await.
-🔗 [Live Demo](https://recipe-finder-vidhi.netlify.app)
+🔗 **[Live Demo](https://vidhiparmar28.github.io/Recipe-Finder/)**
 
 **[Amazon Website Clone](https://github.com/username/Amazon-Website-Clone)** — Responsive replica of the Amazon homepage built with pure HTML & CSS.
 🔗 [Live Demo](https://your-amazon-clone-link.netlify.app)
