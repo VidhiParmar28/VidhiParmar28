@@ -35,6 +35,7 @@ AI / Machine Learning fundamentals
 
 
 **[Country Explorer](https://github.com/username/Country-Explorer)** — Real-time country search and info app using the Fetch API.
+🔗 **[Live Demo]( https://vidhiparmar28.github.io/Country-Explorer/)**
 
 **[React Component Playground](https://github.com/username/react-component-playground)** — Practice repo for React fundamentals — props, JSX, and component composition.
 
